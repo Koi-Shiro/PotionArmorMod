@@ -1,0 +1,11 @@
+{
+    "effect.potionarmor.armor_blessing": "Blessing of Armor",
+
+    "item.minecraft.potion.effect.armored_potion": "Potion of Armor",
+    "item.minecraft.splash_potion.effect.armored_potion": "Splash of Armor",
+    "item.minecraft.lingering_potion.effect.armored_potion": "Lingering Armor",
+
+    "item.minecraft.potion.effect.upgraded_armored_potion": "Potion of Netherite Armor",
+    "item.minecraft.splash_potion.effect.upgraded_armored_potion": "Splash of Netherite Armor",
+    "item.minecraft.lingering_potion.effect.upgraded_armored_potion": "Lingering Netherite Armor"
+}

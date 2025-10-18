@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+out/
+test/
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated resources
+src/generated/
